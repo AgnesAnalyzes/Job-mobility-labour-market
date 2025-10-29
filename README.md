@@ -23,7 +23,7 @@ German Socio-Economic Panel (SOEP), 2003–2017
 **Methods Applied:**  
 - Descriptive analysis of employment transitions  
 - Product-limit (Kaplan–Meier) estimator to measure survival time in part-time employment  
-- Exponential transition rate model to estimate effects of job quality on transition probabilities  
+- Exponential transition rate model to estimate effects of job quality on transition probabilities 
 
 **Key Variables:**  
 - Training participation  
